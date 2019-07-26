@@ -1,6 +1,6 @@
 ## Get the data
 
-[Download here](https://github.com/cnnlabs/cnn-school-shooting-data/blob/master/data.csv)
+[Download here](https://github.com/cnnlabs/cnn-school-shooting-data/blob/master/dataset.csv)
 
 ## The story
 
